@@ -5,7 +5,7 @@ Hi ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-912
 - 🤖 Interested in AI, ML, and Data
 - 🎓 Doing my Computer Science degree @ the [University of Calgary](https://www.ucalgary.ca/)
 
-A little about me....
+## A little about me....
 
 ```python
 const andrew = {
