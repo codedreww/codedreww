@@ -1,26 +1,28 @@
-Hi ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-9127-417c-8b55-ab5a4333674e.gif) My name is Andrew Tan
-===================================================================================================================================
+<img align="right" src="output/bonsai-growth.gif" width="320" alt="Andrew's git-bonsai" />
 
-<img src="output/bonsai-growth.gif" width="384" alt="my git-bonsai" />
+# Hi ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-9127-417c-8b55-ab5a4333674e.gif) My name is Andrew Tan
 
 - 🛠️ I love building practical software and exploring new ideas
-- 🤖 Interested in AI, ML, and Data
-- 🎓 Doing my Computer Science degree @ the [University of Calgary](https://www.ucalgary.ca/)
+- 🤖 Interested in AI, machine learning, and data
+- 🎓 Studying Computer Science at the [University of Calgary](https://www.ucalgary.ca/)
 
-## A little about me....
+<br clear="both" />
 
-```python
+## A little about me...
+
+```javascript
 const andrew = {
-  pronouns: "he" | "him",
-  code: [Python, JavaScript, TypeScript, Java, Go],
+  pronouns: ["he", "him"],
+  code: ["Python", "JavaScript", "TypeScript", "Java", "Go"],
   currently: [
-                "trying to solve leetcode 150",
-                "building something mysterious - coming soon 👀",
-             ],
-}
+    "trying to solve LeetCode 150",
+    "building something mysterious—coming soon 👀",
+  ],
+};
 ```
 
-Reach me out at:
+## Reach out to me
+
 <p align="left">
   <a href="mailto:codedreww@gmail.com">
     <img src="https://img.shields.io/badge/Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" />
@@ -32,7 +34,6 @@ Reach me out at:
     <img src="https://img.shields.io/badge/Discord-5865F2?style=for-the-badge&logo=discord&logoColor=white" alt="Discord" />
   </a>
   <a href="https://x.com/codedreww">
-    <img src="https://img.shields.io/badge/Twitter-000000?style=for-the-badge&logo=x&logoColor=white" alt="Twitter/X" />
+    <img src="https://img.shields.io/badge/Twitter-000000?style=for-the-badge&logo=x&logoColor=white" alt="X" />
   </a>
 </p>
-
