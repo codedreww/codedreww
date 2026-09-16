@@ -1,6 +1,8 @@
 Hi ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-9127-417c-8b55-ab5a4333674e.gif) My name is Andrew Tan
 ===================================================================================================================================
 
+<img src="output/bonsai-growth.gif" width="384" alt="my git-bonsai" />
+
 - 🛠️ I love building practical software and exploring new ideas
 - 🤖 Interested in AI, ML, and Data
 - 🎓 Doing my Computer Science degree @ the [University of Calgary](https://www.ucalgary.ca/)
